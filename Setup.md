@@ -34,3 +34,14 @@ Note: Make relevant config changes in tsconfig.json
 ```
 npm run dev
 ```
+
+6. 
+```
+npm i bullmq ioredis
+```
+
+7. 
+```
+npm i @types/ioredis
+```
+
